@@ -4,8 +4,8 @@
 
 ## Структура репозиторію
 
-- `ingredients.json` – головний словник інгредієнтів, згрупованих за категоріями.
-- `diminutive-map.js` – відповідність пестливих і розмовних форм базовим назвам, наприклад `"бурячок" → "буряк"`.
+- [`ingredients.json`](https://github.com/nxxtia/dish-ingredients-ua/blob/main/dictionaries/ingredients.json) – головний словник інгредієнтів, згрупованих за категоріями.
+- [`diminutive-map.js`](https://github.com/nxxtia/dish-ingredients-ua/blob/main/dictionaries/diminutive-map.json) – відповідність пестливих і розмовних форм базовим назвам, наприклад `"бурячок" → "буряк"`.
 
 ## Категорії інгредієнтів
 
