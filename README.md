@@ -38,7 +38,7 @@ console.log(normalizeWord("апельсинчик")); // "апельсин"
 Якщо ви хочете доповнити словник, створіть Pull Request або відкрийте Issue.
 
 ## Автор
-Цей репозиторій належить @nxxtia
+Цей репозиторій належить [@nxxtia](https://github.com/nxxtia)
 
 
 
