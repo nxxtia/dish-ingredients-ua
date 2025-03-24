@@ -32,3 +32,13 @@ function normalizeWord(word) {
 }
 
 console.log(normalizeWord("апельсинчик")); // "апельсин"
+```
+
+## Як зробити внесок
+Якщо ви хочете доповнити словник, створіть Pull Request або відкрийте Issue.
+
+## Автор
+Цей репозиторій належить @nxxtia
+
+
+
